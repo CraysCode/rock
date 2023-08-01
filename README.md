@@ -1,2 +1,3 @@
-# rock
-Project rock, paper and scissors
+Rock Paper Scissors Project
+
+This is my first project using javascript.
